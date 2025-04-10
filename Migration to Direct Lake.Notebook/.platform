@@ -2,11 +2,11 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Notebook",
-    "displayName": "Notebook 1",
+    "displayName": "Migration to Direct Lake",
     "description": "New notebook"
   },
   "config": {
     "version": "2.0",
-    "logicalId": "efa559be-0ae9-a4e1-4d90-ec833afaf83a"
+    "logicalId": "e29e2c15-e9f4-9296-4048-d449327b0403"
   }
 }
